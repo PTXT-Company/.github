@@ -1,198 +1,51 @@
 <div align="center">
 
-<img src="PTXT.png" alt="PTXT Logo" width="200"/>
+<img src="PTXT.png" alt="PTXT Logo" width="160"/>
 
-# ⚡ PTXT
+# PTXT Configuration Repository
 
-### **Reimaginando o Futuro Digital**
+**Repositório de Configuração e Perfil da Organização**
 
-[![Website](https://img.shields.io/badge/🌐_Website-ptxt.com.br-8B5CF6?style=for-the-badge)](https://ptxt.com.br)
-[![Revolution](https://img.shields.io/badge/🎓_Cursos-PTXT_Pass-EC4899?style=for-the-badge)](https://ptxt.com.br/revolution)
-[![Store](https://img.shields.io/badge/🛒_Store-Web_Moedas-06B6D4?style=for-the-badge)](https://ptxt.com.br/ptxtstore)
-
-<br/>
-
-*Sua plataforma completa para **criar**, **negociar** e **lucrar** com ativos digitais.*
-
----
-
-<br/>
+[![Website](https://img.shields.io/badge/Website-ptxt.com.br-8B5CF6?style=for-the-badge)](https://ptxt.com.br)
+[![Cursos](https://img.shields.io/badge/Cursos-PTXT_Pass-EC4899?style=for-the-badge)](https://ptxt.com.br/revolution)
+[![Store](https://img.shields.io/badge/Store-Web_Moedas-06B6D4?style=for-the-badge)](https://ptxt.com.br/store)
 
 </div>
 
-## 🚀 O que é a PTXT?
+---
 
-Somos uma **empresa de tecnologia** focada em desenvolver **soluções inovadoras** para:
+## 📂 Sobre este Repositório
 
-<table>
-<tr>
-<td align="center" width="33%">
+Este repositório (`.github`) é utilizado para centralizar as configurações da organização PTXT no GitHub, incluindo:
 
-### 🌐
-### Web & Software
-Desenvolvimento de aplicações web modernas e sistemas escaláveis
-
-</td>
-<td align="center" width="33%">
-
-### 🎮
-### Jogos Virtuais
-Ferramentas e soluções para o universo de games, especialmente Roblox
-
-</td>
-<td align="center" width="33%">
-
-### 📦
-### Produtos Digitais
-Criação e monetização de ativos e produtos digitais
-
-</td>
-</tr>
-</table>
-
-<br/>
+1.  **Perfil da Organização**: O conteúdo exibido na página inicial da organização ([github.com/PTXT-Company](https://github.com/PTXT-Company)) está localizado em `profile/README.md`.
+2.  **Health Files**: Contribuição, licença e outros arquivos de saúde da comunidade (em breve).
+3.  **Configurações de Fluxo de Trabalho**: Templates de Issue e Pull Request globais (em breve).
 
 ---
 
-<div align="center">
+## 🚀 Áreas de Atuação
 
-## 🎨 Make-R
+A PTXT desenvolve soluções inovadoras para o ecossistema digital:
 
-### *O Editor de Roupas Roblox Mais Poderoso*
+| Área | Foco |
+|------|-----------|
+| **Web & Software** | Aplicações escaláveis e modernas |
+| **Jogos Virtuais** | Soluções para Roblox e ferramentas de criação |
+| **Produtos Digitais** | Ativos e marketplace de produtos virtuais |
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-FFDD00?style=for-the-badge&labelColor=000000"/>
+## 🛠️ Contato
 
-</div>
+Siga-nos para acompanhar o desenvolvimento das nossas ferramentas:
 
-<br/>
-
-> **Make-R** é nossa ferramenta revolucionária para criadores de roupas Roblox. Edite templates com precisão profissional, visualize em 3D em tempo real e exporte designs incríveis.
-
-<br/>
-
-### ✨ Features Principais
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   🎨  Canvas 2D Profissional     →  Edição precisa com Fabric.js   │
-│   🧊  Preview 3D em Tempo Real   →  Visualize no modelo 3D         │
-│   📐  Sistema de Camadas         →  Organize seus designs          │
-│   🪣  Ferramentas Completas      →  Pincel, balde, texto e mais    │
-│   💾  Exportação Otimizada       →  Pronto para upload no Roblox   │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+- **Site Oficial**: [ptxt.com.br](https://ptxt.com.br)
+- **Cursos**: [PTXT Pass](https://ptxt.com.br/revolution)
+- **Loja**: [PTXT Store](https://ptxt.com.br/store)
 
 <br/>
 
 <div align="center">
-
-| 🖌️ Pincel Personalizável | 🪣 Preenchimento Inteligente | 📝 Texto Avançado |
-|:--:|:--:|:--:|
-| Tamanho, cor e opacidade ajustáveis | Fill com detecção de bordas | Múltiplas fontes e estilos |
-
-| 🔄 Sincronização 2D↔3D | 📤 Multi-Export | 🎚️ Controle de Camadas |
-|:--:|:--:|:--:|
-| Atualizações instantâneas | PNG, Templates prontos | Opacidade, ordem e grupos |
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🎓 PTXT Pass
-
-### *Aprenda. Crie. Lucre.*
-
-<br/>
-
-Nossa plataforma de cursos para você dominar a criação de **ativos digitais** e construir sua **renda online**.
-
-<br/>
-
-[![Acessar Cursos](https://img.shields.io/badge/Acessar_Plataforma-8B5CF6?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://ptxt.com.br/revolution)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🛒 PTXT Store
-
-### *Web Moedas & Produtos Digitais*
-
-<br/>
-
-Marketplace seguro para aquisição de moedas virtuais e produtos digitais.
-
-<br/>
-
-[![Visitar Store](https://img.shields.io/badge/Visitar_Store-06B6D4?style=for-the-badge&logo=shopping-cart&logoColor=white)](https://ptxt.com.br/ptxtstore)
-
-</div>
-
-<br/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 📬 Contato
-
-<br/>
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ptxt.com.br)
-[![Contato](https://img.shields.io/badge/Contato-8B5CF6?style=for-the-badge&logo=mail.ru&logoColor=white)](https://ptxt.com.br/contato)
-
-<br/>
-
----
-
-<br/>
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║                         🌟 BUILDING THE FUTURE 🌟                         ║
-║                                                                           ║
-║                    Um projeto de cada vez. Uma linha de                   ║
-║                       código de cada vez. Sem limites.                    ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
 <sub>© 2025 PTXT. Todos os direitos reservados.</sub>
-
-<br/>
-
-**⭐ Se você gostou, deixe uma estrela nos nossos repositórios!**
-
 </div>
