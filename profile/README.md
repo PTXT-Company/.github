@@ -4,7 +4,7 @@
 
 # PTXT
 
-**Tecnologia & Inovação Digital**
+**Reimaginando o Futuro Digital**
 
 [![Website](https://img.shields.io/badge/Website-ptxt.com.br-8B5CF6?style=for-the-badge)](https://ptxt.com.br)
 [![Cursos](https://img.shields.io/badge/Cursos-PTXT_Pass-EC4899?style=for-the-badge)](https://ptxt.com.br/revolution)
